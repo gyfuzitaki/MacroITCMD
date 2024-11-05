@@ -2,6 +2,22 @@
   "Assets": [
     {
       "PackageId": "MacroITCMD",
+      "Version": "1.0.10",
+      "Type": "Full",
+      "FileName": "MacroITCMD-1.0.10-full.nupkg",
+      "SHA1": "B9C3D3C1767DA41A42CBF6ADD71B348593666568",
+      "Size": 66334340
+    },
+    {
+      "PackageId": "MacroITCMD",
+      "Version": "1.0.10",
+      "Type": "Delta",
+      "FileName": "MacroITCMD-1.0.10-delta.nupkg",
+      "SHA1": "288F8A6136EDC1725CDF02C8245D9EF5C64AE9DF",
+      "Size": 246466
+    },
+    {
+      "PackageId": "MacroITCMD",
       "Version": "1.0.9",
       "Type": "Full",
       "FileName": "MacroITCMD-1.0.9-full.nupkg",
